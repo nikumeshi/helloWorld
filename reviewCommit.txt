@@ -2,3 +2,8 @@ create new file
 git add <filename>
 git status
 git commit -m
+
+how to localRepository
+you are pushed for remote yet
+so that, no problem for "rm <local>"
+hahaha
